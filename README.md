@@ -27,7 +27,9 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-
+![Hadoop](https://img.shields.io/badge/-Hadoop-05122A?style=flat&logo=Apache%20Hadoop)&nbsp;
+![Sqoop](https://img.shields.io/badge/-Sqoop-05122A?style=flat&logo=Apache%20Sqoop)&nbsp;
+![Hive](https://img.shields.io/badge/-Hive-05122A?style=flat&logo=ApacheHive)&nbsp;
 ---
 
 ### 🔥 &nbsp; My Stats :
