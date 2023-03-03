@@ -13,6 +13,8 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ![Genero Studio](https://img.shields.io/badge/-Genero%20Studio-05122A?style=flat&logo=Generostudio)&nbsp;
 ![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=falt&logo=VisualStudioCode)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=IntelliJ%20IDEA)&nbsp;
+![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=PyCharm)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)&nbsp;
@@ -27,6 +29,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Cloudera](https://img.shields.io/badge/-Cloudera-05122A?style=flat&logo=Cloudera)&nbsp;
 ![Hadoop](https://img.shields.io/badge/-Hadoop-05122A?style=flat&logo=Apache%20Hadoop)&nbsp;
 ![Sqoop](https://img.shields.io/badge/-Sqoop-05122A?style=flat&logo=Apache%20Sqoop)&nbsp;
 ![Hive](https://img.shields.io/badge/-Hive-05122A?style=flat&logo=ApacheHive)&nbsp;
