@@ -36,7 +36,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 <p align="center">
   <a href="https://github.com/mohankrishna02">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohankrishna02&theme=vision-friendly-dark&layout=compact" alt="mohankrishna"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohankrishna02&theme=vision-friendly-dark" alt="mohankrishna"/>
 </a>
 </p>
 
@@ -58,7 +58,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ### 🤖 Contribution Graph :
 
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=mohankrishna02&bg_color=011627&color=FFFFFF&line=19e6e1&point=c0f0f7" alt="mohankrishna"/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=mohankrishna02&theme=github-compact" alt="mohankrishna"/>
 </p>
 
 <!--
