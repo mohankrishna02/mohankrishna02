@@ -41,7 +41,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 </p>
 
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mohankrishna02&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="mohankrishna" height=150px/><img  src="https://github-readme-stats.vercel.app/api?username=mohankrishna02&show_icons=true&locale=en&theme=vision-friendly-dark" alt="mohankrishna" height=150px />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mohankrishna02&langs_count=10&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="mohankrishna" height=150px/><img  src="https://github-readme-stats.vercel.app/api?username=mohankrishna02&show_icons=true&locale=en&theme=vision-friendly-dark" alt="mohankrishna" height=150px />
   </p>
 
 ---
