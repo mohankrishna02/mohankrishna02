@@ -33,6 +33,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ![Hadoop](https://img.shields.io/badge/-Hadoop-05122A?style=flat&logo=Apache%20Hadoop)&nbsp;
 ![Sqoop](https://img.shields.io/badge/-Sqoop-05122A?style=flat&logo=Apache%20Sqoop)&nbsp;
 ![Hive](https://img.shields.io/badge/-Hive-05122A?style=flat&logo=ApacheHive)&nbsp;
+![Spark](https://img.shields.io/badge/-Apache%20Spark-05122A?style=flat&logo=ApacheSpark)&nbsp;
 ---
 
 ### 🔥 &nbsp; My Stats :
