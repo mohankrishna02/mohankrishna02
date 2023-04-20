@@ -23,6 +23,7 @@ I am a Big Data Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=FFA518)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![Informix](https://img.shields.io/badge/-Informix-05122A?style=flat&logo=IBM)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)&nbsp;
 ![Photography](https://img.shields.io/badge/-Photography-05122A?style=flat&logo=photobucket)&nbsp;
