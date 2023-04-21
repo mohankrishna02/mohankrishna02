@@ -13,6 +13,7 @@ I am a Big Data Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ![Genero Studio](https://img.shields.io/badge/-Genero%20Studio-05122A?style=flat&logo=Generostudio)&nbsp;
 ![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=falt&logo=VisualStudioCode)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=Eclipse)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=IntelliJ%20IDEA)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=PyCharm)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
