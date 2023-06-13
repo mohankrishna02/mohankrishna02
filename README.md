@@ -64,7 +64,7 @@ I am a Big Data Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### 🤖 Contribution Graph :
 
 <p align="center">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=mohankrishna02&theme=github-compact" alt="mohankrishna"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohankrishna02&theme=github-compact" alt="mohankrishna"/>
 </p>
 
 <!--
